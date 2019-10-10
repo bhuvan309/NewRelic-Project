@@ -1,0 +1,7 @@
+{
+    "schemaType": "LAUNCHER",
+    "id": "my-awesome-nerdpack-launcher",
+    "description": "I love to learn new things and create solution",
+    "displayName": "Bhuvan Sharma",
+    "rootNerdletId": "my-awesome-nerdpack-nerdlet"
+}
