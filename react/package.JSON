@@ -1,0 +1,14 @@
+{
+  "name": "first-sample",
+  "version": "1.0.0",
+  "description": "This is a test file",
+  "main": "index.js",
+  "scripts": {
+    "test": "This is a test command"
+  },
+  "keywords": [
+    "sample"
+  ],
+  "author": "bhuvan",
+  "license": "ISC"
+}
